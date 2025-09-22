@@ -1,5 +1,5 @@
 # ELM
-The core implementation of paper - Equilibrium Language Models
+Anonymous repo for the core implementation of paper - Equilibrium Language Models
 
 Submitted to ICLR2026. Under review.
 
